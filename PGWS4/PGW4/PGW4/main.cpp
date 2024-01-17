@@ -245,8 +245,10 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 			D3D12_DESCRIPTOR_HEAP_TYPE_RTV);
 		_cmdList->OMSetRenderTargets(1, &rtvH, true, nullptr);
 
-		float clearColor[] = { 1.0f,1.0f,0.0f,1.0f };
-		_cmdList->ClearRenderTargetView(rtvH, clearColor, 0, nullptr);
+		
+
+		float clearColor[] = {1.0f, 1.0f, 0.0f, 1.0f};
+			_cmdList->ClearRenderTargetView(rtvH, clearColor, 0, nullptr);
 
 		BarrierDesc.Transition.StateBefore = D3D12_RESOURCE_STATE_RENDER_TARGET;
 		BarrierDesc.Transition.StateAfter = D3D12_RESOURCE_STATE_PRESENT;
