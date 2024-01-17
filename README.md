@@ -10,7 +10,7 @@
 
 # 結果
 
-![第2回の結果](./Monster.png)
+![第2回の結果](Files/Monster.png)
 
 ![第2回の結果](./Ball.png)
 
