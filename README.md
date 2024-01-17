@@ -10,7 +10,7 @@
 
 # 結果
 
-![第2回の結果](masaki0204/Monster.png)
+![第2回の結果](main/Monster.png)
 
 ![第2回の結果](./Ball.png)
 
