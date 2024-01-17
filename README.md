@@ -10,7 +10,7 @@
 
 # 結果
 
-![第2回の結果](Monster.png/.Ball.png/.Rim.png)
+![第2回の結果](Monster.png/Ball.png/Rim.png)
 
 ![第3回の結果](???.png)
 
