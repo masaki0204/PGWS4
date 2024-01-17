@@ -9,11 +9,12 @@
 - 完成したら本リポジトリのmainブランチにpull requestを投げてください
 
 # 結果
+[第２回の結果]
+![第2回の結果](Monster.png)
 
-![第2回の結果]
-(Monster.png)
-(Ball.png)
-![Monster.png]
+![第2回の結果](Ball.png)
+
+![第2回の結果](Rim.png)
 
 ![第3回の結果](???.png)
 
